@@ -1,0 +1,4 @@
+.container-fluid img{
+    width: 60px;
+    filter: invert(6%);
+}
